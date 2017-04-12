@@ -1,3 +1,6 @@
+Note: This is a fork I made that updated Python-ELM to work with the latest version of Scikit-Learn (sklearn)
+
+
 Python-ELM v0.3
 ===============
 
